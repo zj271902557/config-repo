@@ -39,7 +39,7 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka/
-  server:
-    port: 8085
+#   server:
+#     port: 8085
 env:
-  dev4
+  dev5
