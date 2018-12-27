@@ -43,3 +43,5 @@ eureka:
 #    port: 8082
 env:
   dev
+label:
+  release
