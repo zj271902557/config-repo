@@ -42,4 +42,4 @@ eureka:
 #   server:
 #     port: 8085
 env:
-  dev5
+  dev6
