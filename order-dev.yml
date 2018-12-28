@@ -33,7 +33,7 @@ PRODUCT:
       discovery:
         enabled: true
         service-id: CONFIG
-      profile: test
+      profile: dev
 
 eureka:
   client:
