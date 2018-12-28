@@ -22,24 +22,8 @@ spring:
 PRODUCT:
   ribbon:
     NFloadBalancerRuleClassName:com.netflix.loadbalancer.RandomRule
-
-
-
   redis:
     host: localhost
     port: 6379
-  cloud:
-    config:
-      discovery:
-        enabled: true
-        service-id: CONFIG
-      profile: dev
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
-#   server:
-#     port: 8085
 env:
   dev6
