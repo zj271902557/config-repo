@@ -26,4 +26,4 @@ PRODUCT:
     host: localhost
     port: 6379
 env:
-  dev4
+  dev5
